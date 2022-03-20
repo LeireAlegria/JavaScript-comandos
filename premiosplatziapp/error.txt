@@ -1,0 +1,1 @@
+ls: cannot access 'kkkk': No such file or directory

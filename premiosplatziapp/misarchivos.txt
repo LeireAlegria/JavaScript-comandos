@@ -1,0 +1,8 @@
+db.sqlite3
+file1
+index.css
+index.html
+manage.py*
+misarchivos.txt
+polls/
+premiosplatziapp/
